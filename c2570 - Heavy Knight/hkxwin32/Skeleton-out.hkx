@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="ascii"?>
+<hkpackfile classversion="8" contentsversion="hk_2010.2.0-r1" toplevelobject="#0038">
+
+	<hksection name="__data__">
+
+		<hkobject name="#0039" class="hkaSkeleton" signature="0x366e8220">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="name">Master</hkparam>
+			<hkparam name="parentIndices" numelements="86">
+				-1 0 1 2 3 4 5 6 3 8 9 10 3 12 13 14
+				3 16 3 18 19 20 3 2 23 24 25 26 23 28 29 30
+				23 32 33 34 23 36 23 38 39 40 23 2 43 44 45 44
+				47 48 49 50 51 52 53 50 55 56 57 50 59 60 61 50
+				49 48 48 44 67 68 69 70 71 72 73 70 75 76 77 70
+				79 80 81 70 68 68
+			</hkparam>
+			<hkparam name="bones" numelements="86">
+				<hkobject>
+					<hkparam name="name">Master</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">Pelvis</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">Spine</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">L Thigh</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">Cloth_a00</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">Cloth_a01</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">Cloth_a02</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">Cloth_a03</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">Cloth_b00</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">Cloth_b01</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">Cloth_b02</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">Cloth_b03</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">Cloth_c00</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">Cloth_c01</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">Cloth_c02</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">Cloth_c03</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">Cloth_h00</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">Cloth_h01</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">L Calf</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">L Foot</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">L Toe0</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">L Toe0Nub</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">LCalfTwist</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">R Thigh</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">Cloth_d00</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">Cloth_d01</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">Cloth_d02</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">Cloth_d03</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">Cloth_e00</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">Cloth_e01</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">Cloth_e02</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">Cloth_e03</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">Cloth_f00</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">Cloth_f01</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">Cloth_f02</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">Cloth_f03</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">Cloth_g00</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">Cloth_g01</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">R Calf</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">R Foot</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">R Toe0</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">R Toe0Nub</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">RCalfTwist</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">Spine1</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">Neck</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">Head</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">HeadNub</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">L Clavicle</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">L UpperArm</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">L Forearm</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">L Hand</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">L Finger0</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">L Finger01</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">L Finger02</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">L Finger0Nub</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">L Finger1</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">L Finger11</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">L Finger12</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">L Finger1Nub</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">L Finger2</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">L Finger21</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">L Finger22</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">L Finger2Nub</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">L_Weapon</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">L_shield</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">L ForeTwist</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">L_Pad</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">R Clavicle</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">R UpperArm</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">R Forearm</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">R Hand</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">R Finger0</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">R Finger01</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">R Finger02</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">R Finger0Nub</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">R Finger1</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">R Finger11</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">R Finger12</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">R Finger1Nub</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">R Finger2</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">R Finger21</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">R Finger22</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">R Finger2Nub</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">R weapon</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">R ForeTwist</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">R_Pad</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="referencePose" numelements="86">
+				(0.000000 1.419000 0.000000)(0.000000 0.707106 0.000000 0.707107)(1.000000 1.000000 1.000000)
+				(0.000000 0.000000 0.000000)(0.499999 0.500000 0.500000 0.500001)(1.000000 1.000000 1.000000)
+				(0.122735 0.000000 0.044495)(0.000002 -0.000000 0.000001 1.000000)(1.000000 1.000000 1.000000)
+				(-0.122735 0.158910 -0.044495)(-0.044469 -0.000001 -0.999011 0.000000)(1.000000 1.000000 1.000000)
+				(0.393550 -0.272614 0.017023)(0.673184 -0.173293 -0.216386 0.685544)(0.752474 1.000000 1.000000)
+				(0.142299 -0.000000 -0.000000)(-0.000000 -0.094400 0.000000 0.995534)(0.999999 1.000000 1.000000)
+				(0.141423 0.000000 -0.000000)(0.000000 0.018883 0.000000 0.999822)(1.000002 1.000000 1.000000)
+				(0.159107 -0.000000 -0.000000)(-0.000000 -0.037734 -0.000000 0.999288)(1.328949 1.000000 1.000000)
+				(0.349862 -0.237539 -0.152408)(0.834292 -0.145297 -0.358701 0.392656)(0.731181 1.000000 1.000000)
+				(0.133204 -0.000000 -0.000000)(-0.000001 -0.032455 0.000018 0.999473)(1.000000 1.000000 1.000000)
+				(0.158063 -0.000000 0.000000)(0.000001 -0.018157 -0.000009 0.999835)(0.999999 1.000000 1.000000)
+				(0.158693 -0.000000 -0.000000)(0.000001 0.008639 -0.000000 0.999963)(1.367651 1.000000 1.000000)
+				(0.326977 -0.045892 -0.311581)(0.904463 -0.065849 -0.385290 0.170771)(0.912053 1.000000 1.000000)
+				(0.128484 -0.000000 0.000000)(-0.000000 -0.050671 -0.000000 0.998715)(0.997970 1.000000 1.000000)
+				(0.160901 -0.000000 -0.003219)(0.000000 0.027589 0.000000 0.999619)(1.006692 1.000000 1.000000)
+				(0.157410 -0.000000 -0.001441)(-0.000000 -0.028609 -0.000000 0.999591)(1.091354 1.000000 1.000000)
+				(0.246969 0.027910 0.278903)(0.999472 -0.000000 -0.032504 0.000001)(1.000000 1.000000 1.000000)
+				(0.282208 -0.000000 0.000000)(0.000000 0.003173 -0.000000 0.999995)(1.000000 1.000000 1.000000)
+				(0.704557 -0.000000 -0.000000)(0.000000 0.114928 0.000000 0.993374)(1.000000 1.000000 1.000000)
+				(0.585852 0.000000 -0.000000)(-0.000001 -0.070640 -0.000000 0.997502)(1.000000 1.000000 1.000000)
+				(0.147573 0.000000 0.226643)(-0.000000 -0.707107 -0.000000 0.707107)(1.000000 1.000000 1.000000)
+				(0.119036 0.000000 0.000000)(0.000000 0.000000 1.000000 0.000000)(-1.000000 1.000000 1.000000)
+				(0.704557 -0.000000 -0.000000)(-0.000000 0.114928 0.000000 0.993374)(1.000000 1.000000 1.000000)
+				(-0.122735 -0.158910 -0.044494)(0.044469 0.000001 0.999011 0.000000)(1.000000 1.000000 1.000000)
+				(0.310311 0.045886 -0.308223)(-0.170770 -0.385291 -0.065848 -0.904463)(0.757992 1.000000 1.000000)
+				(0.133196 0.000000 0.000000)(-0.000000 0.040678 0.000000 0.999172)(0.999999 1.000000 1.000000)
+				(0.166835 0.000000 0.000000)(0.000000 -0.022164 -0.000000 0.999754)(1.000000 1.000000 1.000000)
+				(0.163189 0.000000 0.000000)(-0.000000 0.022985 -0.000000 0.999736)(1.319275 1.000000 1.000000)
+				(0.349910 0.216535 -0.195896)(-0.392655 -0.358702 -0.145297 -0.834293)(0.711061 1.000000 1.000000)
+				(0.129538 0.000000 -0.000000)(0.000000 0.032455 0.000018 0.999473)(0.999999 1.000000 1.000000)
+				(0.153713 0.000000 0.000000)(-0.000001 0.018156 -0.000009 0.999835)(1.000000 1.000000 1.000000)
+				(0.154326 0.000000 0.000000)(-0.000001 -0.008639 -0.000000 0.999963)(1.406350 1.000000 1.000000)
+				(0.390702 0.273255 0.017202)(-0.685543 -0.216386 -0.173292 -0.673185)(0.741675 1.000000 1.000000)
+				(0.140257 0.000000 -0.000000)(-0.000000 0.094399 0.000000 0.995534)(1.000000 1.000000 1.000000)
+				(0.139393 0.000000 -0.000000)(-0.000000 -0.018883 0.000000 0.999822)(1.000000 1.000000 1.000000)
+				(0.156824 -0.000000 0.000000)(0.000000 0.037734 0.000000 0.999288)(1.348300 1.000000 1.000000)
+				(0.246969 -0.028111 0.278902)(0.000001 -0.032504 -0.000000 -0.999472)(1.000001 1.000000 1.000000)
+				(0.282208 0.000000 0.000000)(-0.000000 -0.003173 -0.000000 0.999995)(0.999999 1.000000 1.000000)
+				(0.704557 -0.000000 -0.000000)(-0.000000 0.114928 0.000000 0.993374)(1.000000 1.000000 1.000000)
+				(0.585852 0.000000 -0.000000)(0.000001 0.070640 -0.000000 -0.997502)(1.000000 1.000000 1.000000)
+				(0.147572 0.000000 0.226643)(-0.000000 -0.707107 -0.000000 0.707107)(1.000000 1.000000 1.000000)
+				(0.119036 0.000000 0.000000)(-0.000000 0.000000 0.000000 1.000000)(1.000000 1.000000 1.000000)
+				(0.704557 -0.000000 -0.000000)(-0.000000 0.114928 0.000000 0.993374)(1.000000 1.000000 1.000000)
+				(0.246381 0.000000 -0.000198)(0.000000 0.000000 -0.000000 1.000000)(1.000000 1.000000 1.000000)
+				(0.348610 -0.000000 -0.029888)(-0.000000 -0.270159 0.000001 0.962816)(1.000000 1.000000 1.000000)
+				(0.088983 0.000000 0.000000)(0.000000 0.270160 -0.000001 0.962815)(1.000000 1.000000 1.000000)
+				(0.268439 -0.000000 -0.000000)(0.000000 -0.000000 0.000000 1.000000)(1.000000 1.000000 1.000000)
+				(-0.086529 0.036467 0.059722)(-0.680738 -0.680737 0.191303 0.191302)(1.000000 1.000000 1.000000)
+				(0.232135 0.000000 0.000000)(-0.000196 -0.010915 -0.004557 0.999930)(1.000000 1.000000 1.000000)
+				(0.464975 -0.000000 0.000000)(0.000000 0.007586 -0.000000 0.999971)(1.000000 1.000000 1.000000)
+				(0.394546 0.000000 -0.000000)(0.707038 0.019656 0.009745 0.706835)(1.000000 1.000000 1.000000)
+				(0.058831 -0.066662 0.026489)(-0.673052 0.011808 -0.309795 0.671483)(1.000001 1.000000 1.000001)
+				(0.066321 0.000000 -0.000000)(-0.000000 0.036567 -0.000000 0.999331)(1.000000 1.000000 1.000000)
+				(0.038189 0.000000 -0.000000)(0.000000 -0.000000 -0.000000 1.000000)(1.000000 1.000000 1.000000)
+				(0.046682 0.000000 0.000000)(-0.000000 -0.000000 0.000000 1.000000)(1.000000 1.000000 1.000000)
+				(0.168941 -0.053453 -0.015673)(0.000398 0.016631 0.000007 0.999862)(1.000000 1.000000 1.000000)
+				(0.048980 0.000000 0.000000)(0.000000 -0.055267 -0.000000 0.998472)(1.000000 1.000000 1.000000)
+				(0.038171 0.000000 -0.000000)(0.000000 0.000000 0.000000 1.000000)(1.000000 1.000000 1.000000)
+				(0.036298 -0.000000 0.000000)(0.000000 0.000000 0.000000 1.000000)(1.000000 1.000000 1.000000)
+				(0.169379 0.009853 -0.013206)(0.000398 -0.002300 -0.000001 0.999997)(1.000000 1.000000 0.999999)
+				(0.049703 -0.000000 0.000000)(-0.000000 -0.005699 -0.000000 0.999984)(1.000000 1.000000 1.000000)
+				(0.047442 0.000000 0.000000)(0.000000 0.000000 0.000000 1.000000)(1.000000 1.000000 1.000000)
+				(0.053916 -0.000000 -0.000000)(0.000000 0.000000 -0.000000 1.000000)(1.000000 1.000000 1.000000)
+				(0.169496 -0.014738 0.043570)(-0.707252 -0.014077 -0.008880 0.706766)(1.000000 1.000000 1.000000)
+				(0.153513 0.004029 -0.001057)(0.000017 0.006073 -0.001231 0.999981)(1.000000 1.000000 1.000000)
+				(0.464975 -0.000000 0.000000)(-0.000001 0.007586 0.000000 0.999971)(1.000000 1.000000 1.000000)
+				(-0.000000 -0.000000 0.000000)(-0.000202 0.010914 0.004562 0.999930)(1.000000 1.000000 1.000000)
+				(-0.086530 -0.036467 0.059722)(-0.680737 0.680738 0.191302 -0.191303)(1.000000 1.000000 1.000000)
+				(0.232135 0.000000 0.000000)(0.000196 -0.010915 0.004557 0.999930)(1.000000 1.000000 1.000000)
+				(0.464975 0.000000 0.000000)(-0.000000 0.007586 0.000000 0.999971)(1.000000 1.000000 1.000000)
+				(0.394547 -0.000000 -0.000000)(0.707038 -0.019656 0.009745 -0.706835)(1.000000 1.000000 1.000000)
+				(0.058832 0.066663 0.026489)(-0.673052 -0.011808 -0.309795 -0.671483)(1.000000 1.000000 1.000000)
+				(0.066321 0.000000 0.000000)(0.000000 0.036567 0.000000 0.999331)(1.000000 1.000000 1.000000)
+				(0.038189 0.000000 0.000000)(-0.000000 0.000000 0.000000 1.000000)(1.000000 1.000000 1.000000)
+				(0.046682 0.000000 0.000000)(0.000000 0.000000 -1.000000 -0.000000)(-1.000000 1.000000 1.000000)
+				(0.168942 0.053453 -0.015673)(-0.000398 0.016631 -0.000007 0.999862)(1.000000 1.000000 1.000000)
+				(0.048980 -0.000000 0.000000)(0.000000 -0.055267 0.000000 0.998472)(1.000000 1.000000 1.000000)
+				(0.038172 0.000000 -0.000000)(-0.000000 0.000000 -0.000000 1.000000)(1.000000 1.000000 1.000000)
+				(0.036298 -0.000000 0.000000)(0.000000 0.000000 1.000000 -0.000000)(-1.000000 1.000000 1.000000)
+				(0.169380 -0.009852 -0.013206)(-0.000398 -0.002300 0.000001 0.999997)(0.999999 1.000000 0.999999)
+				(0.049703 -0.000000 -0.000000)(-0.000000 -0.005699 0.000000 0.999984)(1.000000 1.000000 1.000000)
+				(0.047442 0.000000 0.000000)(-0.000000 -0.000000 -0.000000 1.000000)(1.000000 1.000000 1.000000)
+				(0.053916 -0.000000 -0.000000)(0.000000 -0.000000 1.000000 0.000000)(-1.000000 1.000000 1.000000)
+				(0.185799 -0.028655 0.031788)(-0.014078 -0.707252 0.706766 -0.008879)(1.000000 1.000000 1.000000)
+				(0.464975 0.000000 0.000000)(0.000001 0.007586 -0.000000 0.999971)(1.000000 1.000000 1.000000)
+				(0.000000 0.000000 -0.000000)(-0.010913 0.000202 -0.999930 -0.004562)(1.000000 1.000000 1.000000)
+			</hkparam>
+			<hkparam name="referenceFloats" numelements="0"></hkparam>
+			<hkparam name="floatSlots" numelements="0"></hkparam>
+			<hkparam name="localFrames" numelements="0"></hkparam>
+		</hkobject>
+
+		<hkobject name="#0040" class="hkaAnimationContainer" signature="0x8dc20333">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="skeletons" numelements="1">
+				#0039
+			</hkparam>
+			<hkparam name="animations" numelements="0"></hkparam>
+			<hkparam name="bindings" numelements="0"></hkparam>
+			<hkparam name="attachments" numelements="0"></hkparam>
+			<hkparam name="skins" numelements="0"></hkparam>
+		</hkobject>
+
+		<hkobject name="#0038" class="hkRootLevelContainer" signature="0x2772c11e">
+			<hkparam name="namedVariants" numelements="1">
+				<hkobject>
+					<hkparam name="name">Merged Animation Container</hkparam>
+					<hkparam name="className">hkaAnimationContainer</hkparam>
+					<hkparam name="variant">#0040</hkparam>
+				</hkobject>
+			</hkparam>
+		</hkobject>
+
+	</hksection>
+
+</hkpackfile>
